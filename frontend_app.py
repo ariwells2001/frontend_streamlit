@@ -1,4 +1,4 @@
-from turtle import settiltangle
+
 import streamlit as st
 from login_page import login
 from registration_page import registration
